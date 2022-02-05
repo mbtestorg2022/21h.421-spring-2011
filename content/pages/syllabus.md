@@ -64,28 +64,235 @@ Attendance is important. Not all the material to be covered in class is included
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Paper 1 | 10% |
-| Paper 2 | 15% |
-| Paper 3 (includes final oral presentation) | 30% |
-| Exam | 30% |
-| Class participation (includes response papers) | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3 (includes final oral presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation (includes response papers)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| Week 1 | Introduction | &nbsp; |
-| Week 2 | The Columbian Exchange | &nbsp; |
-| Week 3 | Wilderness and Garden | &nbsp; |
-| Week 4 | The Disease Environment | Session 2: Paper 1 due |
-| Week 5 | Science and Nature | Session 2: Trip to [MIT Archives](http://libraries.mit.edu/archives/) |
-| Week 6 | Landscape and Agriculture | &nbsp; |
-| Week 7 | Industry and Demography | Session 2: Paper 2 due |
-| Week 8 | Conservation and Preservation | &nbsp; |
-| Week 9 | Preparation for research paper |  {{< br >}}{{< br >}} Session 1: Paper 3 proposals due {{< br >}}{{< br >}} Session 2: In class exam {{< br >}}{{< br >}}  |
-| Week 10 | Poisoning and Environmentalism | &nbsp; |
-| Week 11 | Current Events | &nbsp; |
-| Week 12 | Oral presentation of research papers | Session 2: Paper 3 due, all revisions due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 2
+{{< tdclose >}}
+{{< tdopen >}}
+The Columbian Exchange
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 3
+{{< tdclose >}}
+{{< tdopen >}}
+Wilderness and Garden
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 4
+{{< tdclose >}}
+{{< tdopen >}}
+The Disease Environment
+{{< tdclose >}}
+{{< tdopen >}}
+Session 2: Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 5
+{{< tdclose >}}
+{{< tdopen >}}
+Science and Nature
+{{< tdclose >}}
+{{< tdopen >}}
+Session 2: Trip to [MIT Archives](http://libraries.mit.edu/archives/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 6
+{{< tdclose >}}
+{{< tdopen >}}
+Landscape and Agriculture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 7
+{{< tdclose >}}
+{{< tdopen >}}
+Industry and Demography
+{{< tdclose >}}
+{{< tdopen >}}
+Session 2: Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 8
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation and Preservation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 9
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for research paper
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 1: Paper 3 proposals due
+
+Session 2: In class exam
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 10
+{{< tdclose >}}
+{{< tdopen >}}
+Poisoning and Environmentalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 11
+{{< tdclose >}}
+{{< tdopen >}}
+Current Events
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 12
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation of research papers
+{{< tdclose >}}
+{{< tdopen >}}
+Session 2: Paper 3 due, all revisions due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

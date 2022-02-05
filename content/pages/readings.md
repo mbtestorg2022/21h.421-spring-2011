@@ -22,16 +22,173 @@ uid: 750fa2b6-5229-5f4f-a73f-5bb7a4cc6919
 
 \[White\] = White, Richard. _The Organic Machine: The Remaking of the Columbia River_. Hill and Wang, 1996. ISBN: 9780809015832.
 
-| WEEK | TOPICS | READINGS |
-| --- | --- | --- |
-| Week 1 | Introduction | McNeill, and McNeill, pp. 25-40, 75-81, 108-15, 137-54, 158-78, 186-9, 200-23, 230-52, 264-7, 279-88, and 319-327. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mcneillsweb)) |
-| Week 2 | The Columbian Exchange |  {{< br >}}{{< br >}} Mancall, pp. 45-61, 112-132, and 140-148. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mancall)) {{< br >}}{{< br >}} Carney, Judith A. "African Rice in the Columbian Exchange." _Journal of African History_ 42, no. 3 (2001): 377-396. \[[Abstract](http://www.jstor.org/pss/3647168)\] **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_carney_ques)) {{< br >}}{{< br >}} McNeill, J. R. "Revolutionary Mosquitoes of the Atlantic World: Malaria and Independence." In _Natures Past: The Environment and Human History_. Edited by Paolo Squatriti. University of Michigan Press, 2007. ISBN: 9780472069606. \[Preview on [Google Books](http://books.google.com/books?id=UBUeNI7dMk8C&lpg=PP1&pg=PA145#v=onepage&q&f=false)\] **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mcneill_ques)) {{< br >}}{{< br >}}  |
-| Week 3 | Wilderness and Garden | Cronon, full text. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_crononques)) |
-| Week 4 | The Disease Environment | Defoe, pp. 6-66, and 197-230. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_defoeques)) |
-| Week 5 | Science and Nature | Cook, pp. 39-61, 125-134, 335-339, 374-390, and 530-547. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_cook2_ques)) |
-| Week 6 | Landscape and Agriculture | Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in 18th-Century Britain." In Susan Staves and John Brewer, eds. _Early Modern Conceptions of Property_. Routledge, 1996. ISBN: 9780415153140. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_ritvo_ques)) |
-| Week 7 | Industry and Demography | Engels, "The Great Towns." Chapter 2. "Results." Chapter 5. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_engels2_ques)) |
-| Week 8 | Conservation and Preservation |  {{< br >}}{{< br >}} Jacoby, Introduction and chapters 4-6. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_jacoby_ques)) {{< br >}}{{< br >}} Ritvo, Harriet. "Manchester v. Thirlmere and the Construction of the Victorian Environment." _Victorian Studies_ 49, no. 3 (2007): 457-481. \[[Abstract](http://www.jstor.org/pss/4626330)\] {{< br >}}{{< br >}}  |
-| Week 9 | Preparation for research paper | &nbsp; |
-| Week 10 | Poisoning and Environmentalism |  {{< br >}}{{< br >}} Carson, Chapters 1, 7, 9, 10, 14, and 16. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_carson_ques)) {{< br >}}{{< br >}} Langston, Nancy. "The Retreat from Precaution: Regulating DES, Endocrine Disruption, and Environmental Health." _Environmental History_ 13, no. 1 (2008): 41-65. \[See on [Environmental History](https://academic.oup.com/envhis/article/13/1/41/423480)\] {{< br >}}{{< br >}}  |
-| Week 11 | Current Events | White, full text. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_white_ques))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+McNeill, and McNeill, pp. 25-40, 75-81, 108-15, 137-54, 158-78, 186-9, 200-23, 230-52, 264-7, 279-88, and 319-327. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mcneillsweb))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 2
+{{< tdclose >}}
+{{< tdopen >}}
+The Columbian Exchange
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mancall, pp. 45-61, 112-132, and 140-148. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mancall))
+
+Carney, Judith A. "African Rice in the Columbian Exchange." _Journal of African History_ 42, no. 3 (2001): 377-396. \[[Abstract](http://www.jstor.org/pss/3647168)\] **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_carney_ques))
+
+McNeill, J. R. "Revolutionary Mosquitoes of the Atlantic World: Malaria and Independence." In _Natures Past: The Environment and Human History_. Edited by Paolo Squatriti. University of Michigan Press, 2007. ISBN: 9780472069606. \[Preview on [Google Books](http://books.google.com/books?id=UBUeNI7dMk8C&lpg=PP1&pg=PA145#v=onepage&q&f=false)\] **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_mcneill_ques))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 3
+{{< tdclose >}}
+{{< tdopen >}}
+Wilderness and Garden
+{{< tdclose >}}
+{{< tdopen >}}
+Cronon, full text. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_crononques))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 4
+{{< tdclose >}}
+{{< tdopen >}}
+The Disease Environment
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe, pp. 6-66, and 197-230. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_defoeques))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 5
+{{< tdclose >}}
+{{< tdopen >}}
+Science and Nature
+{{< tdclose >}}
+{{< tdopen >}}
+Cook, pp. 39-61, 125-134, 335-339, 374-390, and 530-547. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_cook2_ques))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 6
+{{< tdclose >}}
+{{< tdopen >}}
+Landscape and Agriculture
+{{< tdclose >}}
+{{< tdopen >}}
+Ritvo, Harriet. "Possessing Mother Nature: Genetic Capital in 18th-Century Britain." In Susan Staves and John Brewer, eds. _Early Modern Conceptions of Property_. Routledge, 1996. ISBN: 9780415153140. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_ritvo_ques))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 7
+{{< tdclose >}}
+{{< tdopen >}}
+Industry and Demography
+{{< tdclose >}}
+{{< tdopen >}}
+Engels, "The Great Towns." Chapter 2. "Results." Chapter 5. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_engels2_ques))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 8
+{{< tdclose >}}
+{{< tdopen >}}
+Conservation and Preservation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jacoby, Introduction and chapters 4-6. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_jacoby_ques))
+
+Ritvo, Harriet. "Manchester v. Thirlmere and the Construction of the Victorian Environment." _Victorian Studies_ 49, no. 3 (2007): 457-481. \[[Abstract](http://www.jstor.org/pss/4626330)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 9
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for research paper
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 10
+{{< tdclose >}}
+{{< tdopen >}}
+Poisoning and Environmentalism
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carson, Chapters 1, 7, 9, 10, 14, and 16. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_carson_ques))
+
+Langston, Nancy. "The Retreat from Precaution: Regulating DES, Endocrine Disruption, and Environmental Health." _Environmental History_ 13, no. 1 (2008): 41-65. \[See on [Environmental History](https://academic.oup.com/envhis/article/13/1/41/423480)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Week 11
+{{< tdclose >}}
+{{< tdopen >}}
+Current Events
+{{< tdclose >}}
+{{< tdopen >}}
+White, full text. **Questions**: ([PDF]({{< baseurl >}}/resources/mit21h_421s11_white_ques))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
