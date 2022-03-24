@@ -98,9 +98,9 @@ Session 2: [Trip to MIT Archives](http://libraries.mit.edu/archives/)
 
 Useful Word List ([PDF]({{< baseurl >}}/resources/mit21h_421s11_scncnat_wrds))
 
-Handout: Systema Naturae (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_421s11_system_nat))
+Handout: Systema Naturae ([PDF]({{< baseurl >}}/resources/mit21h_421s11_system_nat))
 
-Handout: Of the Cat (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_421s11_of_the_cat))
+Handout: Of the Cat ([PDF]({{< baseurl >}}/resources/mit21h_421s11_of_the_cat))
 
 Handout: Bestiary and Natural History ([PDF]({{< baseurl >}}/resources/mit21h_421s11_best_nathist))
 
